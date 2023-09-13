@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zawad Wasik Ahmed, you can call me Zawad. Born in 8th October of 1998, Somewhat in the middle of Millenials and Gen Z. Currently I'm 24 years old. I'm a fourth year university student doing my Bachelor's in IT at 	
+My name is Zawad Wasik Ahmed, you can call me Zawad. Born in 8th October of 1998, Somewhat in the middle of Millenials and Gen Z. Currently, I'm 24 years old. I'm a fourth year university student doing my Bachelor's in IT at 	
 **_International Islamic University of Malaysia (IIUM)_**.  
 
 Now thats out of the way, let's get to know me a bit better!
@@ -8,9 +8,9 @@ Now thats out of the way, let's get to know me a bit better!
 
 - 🌱 I’m currently learning 
     -  Mobile App development using Flutter
-    -  Creating smart contracts with Solidity. 
+    -  Web development with MERN stack
 - 🔭 I’m currently working on  
-    - A blockchain system for EHR management.
+    - A project for IFRC Malaysia
     - A dummy mobile appp done on Flutter.
     - A library application for Nibras IIUM. 
                   
