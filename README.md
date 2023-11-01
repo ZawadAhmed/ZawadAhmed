@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zawad Wasik Ahmed, you can call me Zawad. Born in 8th October of 1998, Somewhat in the middle of Millenials and Gen Z. Currently, I'm 24 years old. I'm a fourth year university student doing my Bachelor's in IT at 	
+My name is Zawad Wasik Ahmed, you can call me Zawad. Born in 8th October of 1998, Somewhat in the middle of Millenials and Gen Z. Currently, I'm 24 years old. I'm a Final year university student doing my Bachelor's in IT at 	
 **_International Islamic University of Malaysia (IIUM)_**.  
 
 Now thats out of the way, let's get to know me a bit better!
@@ -11,6 +11,7 @@ Now thats out of the way, let's get to know me a bit better!
     -  Web development with MERN stack
 - 🔭 I’m currently working on  
     - A project for IFRC Malaysia
+    - A mobile app for NEXEA
     - A dummy mobile appp done on Flutter.
     - A library application for Nibras IIUM. 
                   
@@ -22,9 +23,10 @@ Now thats out of the way, let's get to know me a bit better!
 
 - 📫 How to reach me: 
     - Email: zawadwasik@gmail.com 
-    - Telegram: ZawadW
+    - 
 
 - ⚡ Hobbies: 
-   - Likes to do storytelling. 
+   - Likes to do storytelling.
+   - Reading classic literature.
    - Create and edit videos.
    - Shoot street photographs.
